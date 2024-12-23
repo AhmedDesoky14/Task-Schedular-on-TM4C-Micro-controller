@@ -1,4 +1,4 @@
-# Tasks Scheduler on TM4C Micro-controller
+# Tasks Scheduler on TM4C Microcontroller
 
 A simple task scheduler for toggling an LED by a push button on the **TM4C123GH6PM Microcontroller** using **DIO** and **Port AUTOSAR Drivers** and the **SysTick Timer Driver**. It implements the **AUTOSAR 4.0.3 Layered Architecture Model**.
 
